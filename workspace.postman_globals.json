@@ -1,0 +1,15 @@
+{
+	"id": "0179bace-31e1-45b4-84e4-10005a1978bc",
+	"values": [
+		{
+			"key": "username",
+			"value": "maricarmen_perez",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-01-28T21:41:50.497Z",
+	"_postman_exported_using": "Postman/11.30.1"
+}
