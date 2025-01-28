@@ -2,7 +2,7 @@
 Practical cases 1-5. Please check the following details:
 
 0- Configuration
-Import de global, environment and collection .JSON files in Postman.
+Import global, environment and collection .JSON files in Postman.
 Authorization at collection level. Auth Type API Key, Key "api key", value "special-key", Add to "Header".
 
 1- Case 1.
